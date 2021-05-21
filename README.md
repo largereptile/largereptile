@@ -3,11 +3,13 @@
 ### comp sci student
 
 <div align="right">
+  <p>
 <img height="400" width="400" src="https://avatars.githubusercontent.com/u/22501149?v=4"/>
-  <br>
+  </p> <p>
 <a href="https://github.com/kittinan/spotify-github-profile"> 
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=8574zcgnmz5jsmfpsk0wzmk53&cover_image=true&theme=novatorem"/>
 </a>
+  </p>
  </div>
 
 [![Largereptile's GitHub stats](https://github-readme-stats.vercel.app/api?username=largereptile&theme=synthwave&&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
