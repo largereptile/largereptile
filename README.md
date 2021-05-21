@@ -2,7 +2,7 @@
 
 ### comp sci student
 
-<img height="400" width="400" align="right" src="https://avatars.githubusercontent.com/u/22501149?v=4">
+<img height="400" width="400" align="right" src="https://avatars.githubusercontent.com/u/22501149?v=4"/>
   <a href="https://github.com/kittinan/spotify-github-profile"> 
     <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=8574zcgnmz5jsmfpsk0wzmk53&cover_image=true&theme=novatorem"/>
   </a>
